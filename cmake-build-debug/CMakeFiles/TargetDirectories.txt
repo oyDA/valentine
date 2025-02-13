@@ -1,0 +1,3 @@
+C:/Users/ilyac/CLionProjects/prak02/cmake-build-debug/CMakeFiles/prak02.dir
+C:/Users/ilyac/CLionProjects/prak02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ilyac/CLionProjects/prak02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
